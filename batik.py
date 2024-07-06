@@ -27,43 +27,43 @@ class_names = {
 batik_details = {
     'Batik Cap Asem Arang': {
         'ciri': 'Warna latar belakang kain adalah Hijau Tua. Pola yang terlihat terdiri dari elemen-elemen berbentuk cabang-cabang berwarna coklat keemasan. Terdapat beberapa elemen berbentuk lonjong dengan warna biru, hijau, dan hitam, serta beberapa elemen bulat dengan warna merah dan putih di dalam pola cabang-cabang tersebut. Motif-motif ini tersusun secara simetris dan berulang di seluruh permukaan kain. Pola dan warna yang digunakan mengingatkan pada gaya batik tradisional, dengan kombinasi warna dan bentuk yang khas.',
-        'gambar': 'asem_arang.jpg'
+        'gambar': 'asem_arang.JPG'
     },
     'Batik Cap Asem Sinom': {
         'ciri': 'Warna latar belakang kain adalah Hijau toska (turquoise green). Terdapat gambar-gambar menyerupai biji atau kacang polong berwarna merah dan oranye muda. Disertai dengan daun-daun kecil berwarna putih, dan pola dedaunan yang berwarna hijau muda yang tersebar di seluruh kain. Pola dedaunan disusun secara acak dengan berbagai ukuran dan orientasi, memberikan kesan alami dan dinamis. Pola tersebut tampak seperti motif batik atau kain tradisional yang sering ditemukan pada tekstil Indonesia atau Asia Tenggara.',
-        'gambar': 'asem_sinom.jpg'
+        'gambar': 'asem_sinom.JPG'
     },
     'Batik Cap Asem Warak': {
         'ciri': 'Warna latar belakang kain adalah Oren. Gambar menyerupai binatang berwarna merah, hijau, dan oranye dengan pola geometris yang unik pada tubuhnya. Di sepanjang sisi kain, terdapat pola geometris berwarna krem dengan aksen merah dan hijau, yang menyerupai motif tradisional atau etnik. Binatang tersebut memiliki bentuk yang menyerupai hewan fiksi atau karakter kartun dengan pola yang mencolok di tubuhnya, termasuk titik-titik dan lingkaran. Pola tersebut tampak seperti motif kain tradisional atau etnik yang berfokus pada elemen hewan dan desain geometris yang kaya akan warna dan detail.',
-        'gambar': 'asem_warak.jpg'
+        'gambar': 'asem_warak.JPG'
     },
     'Batik Cap Blekok': {
         'ciri': 'Warna latar belakang kain adalah Hijau tua. Gambar burung berwarna kuning dengan detail garis putih, menyerupai burung bangau atau burung lain yang sedang terbang dengan sayap yang terbuka lebar. Terdapat elemen dedaunan dan bunga berwarna kuning dengan detail putih yang mengelilingi burung tersebut. Pola ini diulang secara teratur di seluruh kain, memberikan kesan simetris dan teratur. Setiap burung dikelilingi oleh dedaunan yang menyerupai flora alami. Motif ini tampak seperti motif batik atau kain tradisional, dengan fokus pada elemen alam dan fauna yang sering ditemukan dalam seni tekstil Indonesia atau Asia Tenggara.',
-        'gambar': 'blekok.jpg'
+        'gambar': 'blekok.JPG'
     },
     'Batik Cap Blekok Warak': {
         'ciri': 'Warna latar belakang kain adalah Merah marun. Gambar hewan menyerupai kuda dengan warna oranye dan putih. Hewan ini memiliki detail pola di tubuhnya yang menyerupai garis-garis. Gambar burung berwarna putih dengan aksen oranye, mirip dengan bangau atau burung berkaki panjang. Daun-daun kecil berwarna putih yang tersebar di seluruh permukaan kain. Tepi kain dihiasi dengan pola geometris yang mengelilingi keseluruhan kain, berwarna merah dan putih.',
-        'gambar': 'blekok_warak.jpg'
+        'gambar': 'blekok_warak.JPG'
     },
     'Batik Cap Gambang Semarangan': {
         'ciri': 'Warna latar belakang kain adalah Hitam. Elemen berbentuk cabang-cabang atau sulur berwarna coklat keemasan yang tersebar merata di seluruh kain. Elemen berbentuk lonjong dengan warna biru, hijau, dan hitam. Elemen berbentuk bulat dengan warna merah dan putih. Pola tersusun secara simetris dan berulang di seluruh permukaan kain. Kombinasi warna dan bentuk yang khas, mengingatkan pada gaya batik tradisional. Ada beberapa bentuk geometris seperti persegi yang mengelilingi elemen-elemen utama. Elemen-elemen utama memiliki detail garis-garis yang menambah kekayaan visual pola kain.',
-        'gambar': 'gambang_semarangan.jpg'
+        'gambar': 'gambang_semarangan.JPG'
     },
     'Batik Cap Kembang Sepatu': {
         'ciri': 'Warna latar belakang kain adalah Merah marun. Motif bunga besar yang tampak seperti bunga sepatu atau bunga serupa, dengan warna putih dan oranye. Daun-daun yang mengelilingi bunga tersebut, dengan warna oranye dan putih yang serasi. Motif bunga dan daun tersusun secara simetris dan berulang di seluruh permukaan kain. Pola bunga dan daun ditampilkan dengan detail garis yang menonjol, memberikan kesan artistik dan tradisional. Motif bunga dan daun memiliki variasi bentuk dan ukuran, namun tetap konsisten dalam penggunaan warna dan gaya garis.',
-        'gambar': 'kembang_sepatu.jpg'
+        'gambar': 'kembang_sepatu.JPG'
     },
     'Batik Cap Semarangan': {
         'ciri': 'Warna dominan pada kain ini adalah Hitam, dengan pola yang menggunakan warna putih dan merah. Terdapat beberapa elemen arsitektur yang khas, termasuk bangunan dengan kubah dan menara, yang kemungkinan besar adalah representasi bangunan ikonik dari suatu daerah. Pola juga melibatkan elemen-elemen flora seperti batang-batang panjang yang mungkin mewakili bambu atau tanaman lainnya, serta fauna yang menyerupai burung. Pola ini diulang secara terus menerus, menciptakan efek visual yang kaya dan detail. Warna merah pada beberapa bagian memberikan kontras yang mencolok terhadap latar belakang hitam dan pola putih.',
-        'gambar': 'semarangan.jpg'
+        'gambar': 'semarangan.JPG'
     },
     'Batik Cap Tugu Muda': {
         'ciri': 'Warna dasar kain ini adalah Biru, dengan pola berwarna putih, merah, hijau, dan sedikit ungu. Salah satu motif utama yang jelas terlihat adalah representasi dari Tugu Muda, sebuah monumen terkenal di Semarang, yang digambarkan dengan warna merah dan putih. Terdapat elemen-elemen floral dengan daun dan batang yang berkelok-kelok, menggunakan warna putih, hijau, dan ungu. Pola ini juga mengandung elemen-elemen abstrak yang memberikan kesan dinamis dan penuh gerak. Motif Tugu Muda dan elemen floral diulang secara teratur di seluruh kain, menciptakan pola yang konsisten. Penggunaan warna merah pada motif Tugu Muda memberikan kontras yang kuat terhadap latar belakang biru, membuatnya sangat menonjol.',
-        'gambar': 'tugu_muda.jpg'
+        'gambar': 'tugu_muda.JPG'
     },
     'Batik Cap Warak Beras Utah': {
         'ciri': 'Warna dasar kain ini adalah Merah cerah, dengan pola yang menggunakan warna kuning, biru, hijau, dan putih. Motif utama pada kain ini adalah gambar hewan yang dikenal sebagai Warak Ngendog, yang merupakan simbol budaya dari Kota Semarang. Warak Ngendog digambarkan dengan berbagai warna seperti biru, merah, dan hijau. Ada pola gelombang atau garis melengkung berwarna kuning yang mengisi latar belakang kain, memberikan kesan dinamis dan ritmis. Motif Warak Ngendog dan pola gelombang diulang secara teratur di seluruh kain, menciptakan pola yang konsisten. Kombinasi warna cerah seperti merah, kuning, biru, dan hijau menciptakan kontras yang kuat, membuat motif hewan dan pola latar belakang sangat menonjol.',
-        'gambar': 'warak_beras_utah.jpg'
+        'gambar': 'warak_beras_utah.JPG'
     }
 }
 
